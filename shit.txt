@@ -1,0 +1,75 @@
+1) 	SIP --------------- Application layer 
+	IMCP -------------- Network Layer
+	UDP----------------- Transport layer
+	ARP----------------- Link layer
+
+2) 	
+
+3)CSMA/CA
+
+4) Entire IP packet
+
+5) Dijaktra's algorithm
+
+6) It converts a message of a fixed length into a message digest of arbitrary length
+
+7) sending a packet to all machines
+
+8) cipher suite
+
+9) 128 bit
+
+10) TCP
+
+11) logical communication channels for transferring data
+
+12) only that packets that are queued in the router
+
+13) All of the mentioned
+
+14) IP Address
+
+15) fixed size bit string
+
+16) the name of true party and true party`a s public key
+
+17) stateful firewall and stateless firewall
+
+18) both intra-AS and inter-AS routing
+
+19) Queuing delay
+
+20) All of the above
+
+21) Sam looks up Jane's Public key. He composes his message......
+
+22) layer 3 (network layer)
+
+23) b & c
+
+24) dynamic host configuration protocol (DHCP)
+
+25) source and destination address
+
+26) SYN, IMCP, and HTTP
+
+27) network layer
+
+28) resolve 32 bit IP addresses into 48 bit local MAC Addresses
+
+29) Botnet
+
+30) traceroute
+
+31) port
+
+32) one
+
+
+
+
+
+
+
+
+
